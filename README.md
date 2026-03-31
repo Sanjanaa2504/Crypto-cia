@@ -48,12 +48,6 @@ E(x) = (x + shift) % 26
 Decryption:
 D(x) = (x - shift) % 26
 
-## LLM Prompt
-
-Implement a Caesar Cipher in Python with encryption and decryption.
-Include a simple hashing function to verify message integrity.
-Keep the code clean and beginner-friendly.
-
 ## Limitations
 - Not secure for real-world use
 - Easily breakable
